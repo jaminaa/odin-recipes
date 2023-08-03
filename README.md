@@ -5,3 +5,5 @@ This webpage will display recipes for making simple down-to-earth food. While ma
 3. Commit projects to github and write meaningful messages
 
 Overall, this project was pretty simple however adding git commit messages took most of the time. Can't wait to create more complex sites
+
+Live site: https://jaminaa.github.io/odin-recipes/
